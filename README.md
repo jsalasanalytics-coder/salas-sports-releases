@@ -1,29 +1,27 @@
-# Boca VA — Descargas
+# Salas Sports — Descargas
 
 Software de video análisis deportivo.
 
 ## Descargar
 
-Ir a [Releases](https://github.com/jsalasanalytics-coder/boca-va-releases/releases/latest) y bajar:
+Ir a [Releases](https://github.com/jsalasanalytics-coder/salas-sports-releases/releases/latest) y bajar:
 
-- **Mac (Apple Silicon, M1/M2/M3/M4)**: `Boca VA-x.x.x-arm64.dmg`
-- **Mac (Intel)**: `Boca VA-x.x.x.dmg`
-- **Windows**: `Boca VA Setup x.x.x.exe`
+- **Mac (Apple Silicon, M1/M2/M3/M4)**: `Salas.Sports-x.x.x-arm64.dmg`
+- **Mac (Intel)**: `Salas.Sports-x.x.x.dmg`
+- **Windows**: `Salas.Sports.Setup.x.x.x.exe`
+- **Linux**: `Salas.Sports-x.x.x.AppImage`
 
 ## Instalación en Mac
 
-1. Abrir el `.dmg` y arrastrar **Boca VA** a Aplicaciones.
+1. Abrir el `.dmg` y arrastrar **Salas Sports** a Aplicaciones.
 2. La primera vez, **clic derecho sobre la app → Abrir → Abrir** (la app no está firmada con certificado de Apple).
 3. Si macOS dice que la app está "dañada", abrir Terminal y ejecutar:
    ```
-   xattr -cr "/Applications/Boca VA.app"
+   xattr -cr "/Applications/Salas Sports.app"
    ```
 
 ## Instalación en Windows
 
-1. Ejecutar el `.exe`.
-2. Si aparece la pantalla azul de SmartScreen: **Más información → Ejecutar de todas formas**.
-
-## Activación
-
-Al abrir por primera vez, la app pide una **clave de licencia** (se la da el proveedor). Se necesita conexión a internet para activar.
+1. Ejecutar `Salas.Sports.Setup.x.x.x.exe`.
+2. Si SmartScreen avisa, **Más información → Ejecutar de todas formas**.
+3. Si venías de la versión anterior "Boca VA", desinstalala desde Configuración → Aplicaciones (tus datos se conservan).
