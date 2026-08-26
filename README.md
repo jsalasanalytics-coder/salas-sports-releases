@@ -7,7 +7,8 @@ Software de video análisis deportivo.
 Ir a [Releases](https://github.com/jsalasanalytics-coder/salas-sports-releases/releases/latest) y bajar:
 
 - **Mac (Apple Silicon, M1/M2/M3/M4)**: `Salas.Sports-x.x.x-arm64.dmg`
-- **Mac (Intel)**: `Salas.Sports-x.x.x.dmg`
+- **Mac (Intel, macOS 12 o más nuevo)**: `Salas.Sports-x.x.x.dmg`
+- **Mac (Intel con macOS 11 Big Sur)**: `Salas.Sports-x.x.x-macOS11-Intel.dmg`
 - **Windows**: `Salas.Sports.Setup.x.x.x.exe`
 - **Linux**: `Salas.Sports-x.x.x.AppImage`
 
